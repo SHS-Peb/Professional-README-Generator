@@ -3,7 +3,3 @@ This week required creation of a README generator that responding to prompts to 
 
 The task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
-
-## Link to Deployed Application
-
-https://shs-peb.github.io/Professional-README-Generator/
